@@ -4,6 +4,9 @@ background-color: burlywood;
 text-align: center;
 font-size: 35px;
 }
+.webdevlopment h1{
+ margin-right: 80px;
+}
 .text {
     font-size: 20px;
     background-color: black;
@@ -43,5 +46,43 @@ cursor: pointer;
 border: 1px solid gray;   
 } 
 .work4 span{
-    color: aliceblue;
+    color: black;
+}
+.webpost {
+text-align: center;
+margin-top: 10px;
+font-size: 25px;
+}
+.facebook {
+background-color: #3b5998;
+}
+
+.twitter {
+background-color: #55acee;
+margin-right: 10px;
+}
+.a {
+padding: 12px 24px;
+color: white;
+display: inline-block;
+opacity: 0.8;
+border-radius: 4px;
+text-align: center;
+float: right;
+}
+
+.a:hover {
+opacity: 1;
+}
+
+.fa {
+margin-right: 5px;
+}
+.webpost img{
+float: center;
+margin-left: 120px;
+}
+.header {
+background-image: url(images.jpg);
+background-size: cover;    
 }
